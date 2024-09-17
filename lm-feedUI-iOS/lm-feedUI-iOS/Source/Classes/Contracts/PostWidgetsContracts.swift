@@ -5,6 +5,7 @@
 //  Created by Devansh Mohata on 20/07/24.
 //
 
+import Foundation
 
 // MARK: LMPostWidgetTableViewCellProtocol
 public protocol LMPostWidgetTableViewCellProtocol: AnyObject {
