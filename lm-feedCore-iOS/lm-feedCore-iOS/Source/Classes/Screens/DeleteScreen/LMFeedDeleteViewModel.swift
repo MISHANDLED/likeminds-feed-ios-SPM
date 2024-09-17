@@ -5,6 +5,7 @@
 //  Created by Devansh Mohata on 30/01/24.
 //
 
+import Foundation
 import LikeMindsFeed
 
 public final class LMFeedDeleteViewModel {

@@ -5,8 +5,9 @@
 //  Created by Devansh Mohata on 03/01/24.
 //
 
-import LikeMindsFeedUI
+import Foundation
 import LikeMindsFeed
+import LikeMindsFeedUI
 
 public struct LMFeedConvertToFeedPost {
     public static func convertToViewModel(for post: LMFeedPostDataModel) -> LMFeedPostContentModel {

@@ -5,6 +5,7 @@
 //  Created by Devansh Mohata on 06/08/24.
 //
 
+import Foundation
 import LikeMindsFeed
 import LikeMindsFeedUI
 
