@@ -5,8 +5,9 @@
 //  Created by Devansh Mohata on 01/01/24.
 //
 
-import LikeMindsFeedUI
+import Foundation
 import LikeMindsFeed
+import LikeMindsFeedUI
 
 public protocol LMFeedTopicSelectionViewModelProtocol: LMBaseViewControllerProtocol {
     func updateTopicList(with data: [[LMFeedTopicSelectionCell.ContentModel]], selectedCount: Int)

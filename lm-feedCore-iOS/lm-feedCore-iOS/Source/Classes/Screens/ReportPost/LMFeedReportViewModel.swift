@@ -5,6 +5,7 @@
 //  Created by Devansh Mohata on 31/01/24.
 //
 
+import UIKit
 import LikeMindsFeed
 
 public final class LMFeedReportViewModel {

@@ -5,10 +5,12 @@
 //  Created by Devansh Mohata on 11/01/24.
 //
 
-import LikeMindsFeedUI
+import Foundation
 import LikeMindsFeed
+import LikeMindsFeedUI
+import UIKit
 
-public protocol LMFeedTaggingListViewModelProtocol: AnyObject { 
+public protocol LMFeedTaggingListViewModelProtocol: AnyObject {
     func updateList(with users: [LMFeedTaggingUserItem.ContentModel])
 }
 
