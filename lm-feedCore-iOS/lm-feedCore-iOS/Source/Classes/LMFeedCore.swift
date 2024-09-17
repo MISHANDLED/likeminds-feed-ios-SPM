@@ -9,6 +9,7 @@ import FirebaseCore
 import FirebaseMessaging
 import LikeMindsFeedUI
 import LikeMindsFeed
+import UIKit
 
 public protocol LMFeedCoreCallback: AnyObject {
     func onAccessTokenExpiredAndRefreshed(accessToken: String, refreshToken: String)
