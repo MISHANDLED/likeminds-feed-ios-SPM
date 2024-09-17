@@ -8,6 +8,7 @@
 import Foundation
 import LikeMindsFeed
 import LikeMindsFeedUI
+import UIKit
 
 public class LMFeedBasePostDetailViewModel {
     public let postID: String

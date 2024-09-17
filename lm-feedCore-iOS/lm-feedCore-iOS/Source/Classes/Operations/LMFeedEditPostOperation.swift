@@ -5,6 +5,7 @@
 //  Created by Devansh Mohata on 27/01/24.
 //
 
+import Foundation
 import LikeMindsFeed
 
 final class LMFeedEditPostOperation {
