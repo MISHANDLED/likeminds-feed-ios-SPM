@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import UIKit
 
 open class LMFeedProfileImageView: LMView{
     open private(set) lazy var imageView: LMImageView = {

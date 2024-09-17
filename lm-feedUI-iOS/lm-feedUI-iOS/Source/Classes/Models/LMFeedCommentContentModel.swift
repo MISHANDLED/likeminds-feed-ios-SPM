@@ -5,6 +5,7 @@
 //  Created by Devansh Mohata on 18/12/23.
 //
 
+import Foundation
 
 // MARK: LMFeedPostCommentProtocol
 public protocol LMFeedPostCommentProtocol: AnyObject {
