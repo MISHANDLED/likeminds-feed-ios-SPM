@@ -5,8 +5,10 @@
 //  Created by Devansh Mohata on 02/01/24.
 //
 
-import LikeMindsFeedUI
+import Foundation
 import LikeMindsFeed
+import LikeMindsFeedUI
+import UIKit
 
 // MARK: LMUniversalFeedViewModelProtocol
 public protocol LMFeedBasePostListViewModelProtocol: LMBaseViewControllerProtocol {
