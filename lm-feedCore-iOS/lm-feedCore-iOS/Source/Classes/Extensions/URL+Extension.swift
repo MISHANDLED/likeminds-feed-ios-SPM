@@ -5,6 +5,8 @@
 //  Created by Devansh Mohata on 22/01/24.
 //
 
+import Foundation
+
 public extension URL {
     var isDirectory: Bool {
         (try? resourceValues(forKeys: [.isDirectoryKey]))?.isDirectory == true

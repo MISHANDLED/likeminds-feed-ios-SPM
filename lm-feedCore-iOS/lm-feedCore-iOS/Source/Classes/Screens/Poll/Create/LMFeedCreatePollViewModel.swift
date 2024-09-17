@@ -5,6 +5,7 @@
 //  Created by Devansh Mohata on 08/06/24.
 //
 
+import Foundation
 import LikeMindsFeedUI
 
 public protocol LMFeedCreatePollViewModelProtocol: LMBaseViewControllerProtocol {

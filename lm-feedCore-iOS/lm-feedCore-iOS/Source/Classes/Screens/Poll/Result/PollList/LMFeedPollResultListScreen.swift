@@ -6,6 +6,7 @@
 //
 
 import LikeMindsFeedUI
+import UIKit
 
 open class LMFeedPollResultListScreen: LMViewController {
     // MARK: UI Elements

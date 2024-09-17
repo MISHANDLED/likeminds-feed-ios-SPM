@@ -5,6 +5,7 @@
 //  Created by Devansh Mohata on 28/01/24.
 //
 
+import Foundation
 import LikeMindsFeedUI
 
 public final class LMFeedRouter {

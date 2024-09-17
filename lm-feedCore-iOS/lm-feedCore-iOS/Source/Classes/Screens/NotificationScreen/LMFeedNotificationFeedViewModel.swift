@@ -5,8 +5,9 @@
 //  Created by Devansh Mohata on 21/01/24.
 //
 
-import LikeMindsFeedUI
+import Foundation
 import LikeMindsFeed
+import LikeMindsFeedUI
 
 public protocol LMFeedNotificationViewModelProtocol: LMBaseViewControllerProtocol {
     func showNotifications(with data: [LMFeedNotificationItem.ContentModel], indexPath: IndexPath?)

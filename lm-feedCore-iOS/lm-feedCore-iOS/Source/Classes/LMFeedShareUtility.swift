@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import UIKit
 
 public final class LMFeedShareUtility {
     static private(set) var domainURL: String = "lmfeed://yourdomain.com"
