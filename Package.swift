@@ -20,7 +20,7 @@ let package = Package(
         .package(url: "https://github.com/aws-amplify/aws-sdk-ios-spm.git", from: "2.33.0"),
         .package(url: "https://github.com/mikaoj/BSImagePicker.git", from: "3.3.3"),
         .package(url: "https://github.com/firebase/firebase-ios-sdk.git", from: "8.0.0"),
-        .package(url: "https://github.com/MISHANDLED/SPMSupportCheck.git", .upToNextMajor(from: "2.0.0"))
+        .package(url: "https://github.com/MISHANDLED/SPMSupportCheck.git", from: "2.3.0")
     ],
     targets: [
         .target(
@@ -29,7 +29,6 @@ let package = Package(
                 .product(name: "AWSCore", package: "aws-sdk-ios-spm"),
                 .product(name: "AWSS3", package: "aws-sdk-ios-spm"),
                 .product(name: "BSImagePicker", package: "BSImagePicker"),
-                .product(name: "Alamofire", package: "Alamofire"),
                 .product(name: "LikeMindsFeed", package: "SPMSupportCheck"),
                 .product(name: "FirebaseMessaging", package: "firebase-ios-sdk"),
                 "LikeMindsFeedUI"

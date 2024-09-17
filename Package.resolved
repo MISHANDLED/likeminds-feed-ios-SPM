@@ -131,8 +131,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/MISHANDLED/SPMSupportCheck.git",
       "state" : {
-        "revision" : "e63db3513a168c46accc046648f5c9b033dbf8a9",
-        "version" : "2.2.0"
+        "revision" : "579ae46d678644153c17e707f1f42c5758125b48",
+        "version" : "2.3.0"
       }
     },
     {
