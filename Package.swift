@@ -29,6 +29,7 @@ let package = Package(
                 .product(name: "AWSCore", package: "aws-sdk-ios-spm"),
                 .product(name: "AWSS3", package: "aws-sdk-ios-spm"),
                 .product(name: "BSImagePicker", package: "BSImagePicker"),
+                .product(name: "Alamofire", package: "Alamofire"),
                 .product(name: "LikeMindsFeed", package: "SPMSupportCheck"),
                 .product(name: "FirebaseMessaging", package: "firebase-ios-sdk"),
                 "LikeMindsFeedUI"
